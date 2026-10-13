@@ -7,7 +7,7 @@ import { MdDeleteForever as Excluir } from "react-icons/md";
 
 export default function Produtos() {
   // Para alterar o título da página:
-  document.title = "Produtos";
+  document.title = "Produtos-Usuario-Github";
 
   const navigate = useNavigate();
 
